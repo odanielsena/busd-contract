@@ -1,4 +1,4 @@
-# Binance USD (BUSD)
+# METAMASK (META)
 Paxos-issued USD-collateralized ERC20 stablecoin public smart contract repository.
 
 https://www.paxos.com/busd
